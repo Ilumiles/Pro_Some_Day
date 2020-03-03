@@ -1,0 +1,18 @@
+body { background-image: url('../My\ website/wall.jpg'); background-repeat: repeat;}
+.container {width: 15%; margin: auto;margin-bottom: 0px;}
+.heading{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: rgb(241, 71, 71);font-size: 35px;font-weight: bolder;}
+.heading1{ line-height:35px;background-color: azure; width: 25%;margin: auto; font-family: Arial, Helvetica, sans-serif; font-size: 16px;
+    border-bottom: 1px black solid; 
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    border-top: 1px black solid;
+margin-top: 30px; text-align: center;}
+.my-form{ padding:5px;}
+
+.my-form input{ padding: 18px;width: 80%;border-radius: 10px; font-size: 20px;}
+.my-form input[type = 'submit']{ background-color: lightcoral;color: white;}
+
+.footer{ text-align: center;}
+.footer1{ text-align: center ;padding-top: 100px;font-weight: bold;}
+
+a:hover{color: tomato;}
